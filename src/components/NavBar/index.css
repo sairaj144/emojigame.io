@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  height: 100px;
+  padding: 20px;
+  background-color: #ffffff33;
+  justify-content: space-between;
+  color: #ffffff;
+  font-family: 'Roboto';
+
+  width: 100%;
+}
+.navbox {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  padding-left: 30px;
+  margin-left: 60px;
+  margin-right: 8px;
+  width: 90px;
+}
+.title {
+  font-size: 35px;
+}
+.scoreboard {
+  font-size: 29px;
+  font-weight: 500;
+  margin-right: 20px;
+}

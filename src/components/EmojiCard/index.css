@@ -1,0 +1,18 @@
+.emojibox {
+  list-style-type: none;
+  background-color: #ffffff33;
+  border-radius: 15px;
+  margin: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  padding: 30px;
+  border: 3px solid #ffffff30;
+}
+.btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}

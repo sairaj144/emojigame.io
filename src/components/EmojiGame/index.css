@@ -1,0 +1,30 @@
+.container {
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 40px;
+}
+
+.navbar-container {
+  width: 100%;
+  align-self: flex-start;
+}
+
+.game-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-grow: 1;
+  padding-top: 10px;
+}
+
+.game {
+  width: 80%;
+  min-height: 450px;
+  display: flex;
+  flex-wrap: wrap;
+}
